@@ -8,4 +8,3 @@ install.packages("tidyverse")
 library(tidyverse)
 
 ## 5.2 本書で紹介する関数一覧------------------------
-
